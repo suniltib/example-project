@@ -3,3 +3,5 @@ kotila
 scala
 ruby
 javascript
+Phython
+COBOL
